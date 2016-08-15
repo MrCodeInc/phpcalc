@@ -1,6 +1,6 @@
 # PHP CALCULATOR 
 
-A simple calculator made in PHP
+A simple calculator made in PHP.
 
 # WHY DID YOU MAKE THIS?
 
