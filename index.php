@@ -59,7 +59,7 @@ echo "<script language=javascript> alert(\"Please Enter second value.\");</scrip
 </select></td>
                </tr>
             <tr>
-                <td style="background-color:aqua; color:red; font-family:'Times New Roman'">Enter First Number</td>
+                <td style="background-color:aqua; color:red; font-family:'Times New Roman'">Enter Second Number</td>
                 <td class="auto-style5">
                     <input name="lvalue" type="text"  style="color:red"/></td>
                
