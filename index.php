@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Welcome to PHP CALCULATOR!";
+$pageTitle = "PHP CALCULATOR!";
 
 ini_set('display_errors',0);
 if( isset( $_REQUEST['calculate'] ))
