@@ -70,7 +70,7 @@ echo "<script language=javascript> alert(\"Please Enter second value.\");</scrip
                
             </tr>
             <tr>
-                <td style="background-color:aqua;color:red">Output = </td>
+                <td style="background-color:aqua;color:red">The answer is: </td>
                 <td style="color:darkblue"><?php echo $res;?></td>
                
             </tr>
