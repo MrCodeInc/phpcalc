@@ -1,6 +1,6 @@
 <?php
 
-echo "PHP CALCULATOR";
+echo "PHP CALCULATOR!";
 
 ini_set('display_errors',0);
 if( isset( $_REQUEST['calculate'] ))
