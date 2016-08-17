@@ -80,6 +80,7 @@ echo "<script language=javascript> alert(\"Please Enter second value.\");</scrip
        </table>
  </form>
  echo "Created by <a href="https://github.com/MrCodeInc/">MrCodeInc</a>";
- echo " ";
+
  echo "You can view the source code <a href="https://github.com/MrCodeInc/phpcalc/">here.</a>";
+ 
  ?>
