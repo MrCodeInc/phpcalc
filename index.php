@@ -1,5 +1,7 @@
 <?php
 
+<title>PHP CALCULATOR</title>
+
 echo "PHP CALCULATOR!";
 
 ini_set('display_errors',0);
