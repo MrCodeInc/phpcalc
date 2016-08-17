@@ -79,8 +79,8 @@ echo "<script language=javascript> alert(\"Please Enter second value.\");</scrip
             </tr>
        </table>
  </form>
- echo "Created by <a href="https://github.com/MrCodeInc/">MrCodeInc</a>";
 
- echo "You can view the source code <a href="https://github.com/MrCodeInc/phpcalc/">here.</a>";
+Created by <a href="https://github.com/MrCodeInc/">MrCodeInc</a>
+You can view the source code <a href="https://github.com/MrCodeInc/phpcalc/">here.</a>
  
- ?>
+?>
