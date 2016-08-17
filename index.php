@@ -1,7 +1,8 @@
 <?php
 
 echo "PHP CALCULATOR!";
-
+echo "Created by <a href="https://github.com/MrCodeInc/">">MrCodeInc</a>";
+echo "You can view the source code <a href="https://github.com/MrCodeInc/phpcalc/">">here.</a>";
 ini_set('display_errors',0);
 if( isset( $_REQUEST['calculate'] ))
 {
