@@ -82,3 +82,5 @@ echo "<script language=javascript> alert(\"Please Enter second value.\");</scrip
 
 Created by <a href="https://github.com/MrCodeInc/">MrCodeInc.</a>
 You can view the source code <a href="https://github.com/MrCodeInc/phpcalc/">here.</a>
+
+<meta name="description" content="A simple calculator made in PHP.">
