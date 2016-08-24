@@ -1,4 +1,4 @@
-# PHP CALCULATOR ![](https://img.shields.io/badge/Heroku%20Status-Online-brightgreen.svg)]
+# PHP CALCULATOR ![](https://img.shields.io/badge/Heroku%20Status-Online-brightgreen.svg)
 
 A simple calculator made in PHP.
 
